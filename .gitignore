@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+.test-runtime/
+.env
+.env.*
+.venv/
+venv/
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.log
+cache/
+media/
+.test-durations.json
+test_durations.json
