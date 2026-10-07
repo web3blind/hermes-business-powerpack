@@ -2,7 +2,7 @@
 
 **Beta Telegram Business plugin for Hermes Agent: invoke a full agent in a private conversation, transcribe voice messages, analyze reply attachments, and manage your Telegram stories.**
 
-This is an alternative to [hermes-telegram-business](https://github.com/NousResearch/hermes-telegram-business), not a replacement for it. The official plugin drafts customer replies for owner approval. Powerpack instead waits for the account owner's explicit text or voice invocation, runs the native Hermes CLI with tools, and delivers its final text directly into that Business conversation.
+Powerpack waits for the account owner's explicit text or voice invocation, runs the native Hermes CLI with tools, and delivers its final text directly into that Business conversation. It also provides voice transcription, reply-attachment analysis and owner-controlled Telegram stories.
 
 **The recipient sees the response, sent on behalf of your personal account.** There is no Send/Edit/Discard approval screen. Enable this only if that workflow is what you want.
 
