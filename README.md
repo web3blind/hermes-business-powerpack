@@ -6,6 +6,8 @@ Powerpack waits for the account owner's explicit text or voice invocation, runs 
 
 **The recipient sees the response, sent on behalf of your personal account.** There is no Send/Edit/Discard approval screen. Enable this only if that workflow is what you want.
 
+**Disclosure —** In enabled Business conversations, an owner-authenticated message beginning with `Hermes` or `Гермес` invokes the full-tool Hermes agent. It can read the conversation partner's quoted text and supported reply attachments, and its final reply is sent from your account without a separate send-confirmation screen. Eligible voice notes from the conversation partner are transcribed and the transcription is posted back to the conversation automatically; they do not invoke the agent.
+
 [Russian documentation](README.ru.md)
 
 ## Features
